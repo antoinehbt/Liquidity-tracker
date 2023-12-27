@@ -1,0 +1,1 @@
+This script queries the DexScreener API to search for specific token pairs on various Decentralized Exchanges. It allows filtering results by liquidity, blockchain network and DEX. The script displays the found pairs with details like pair address, chain ID, DEX name, price in USD, and liquidity. It can be used for arbitrage opportunity monitoring.
